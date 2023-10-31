@@ -1,0 +1,12 @@
+10 & 20 ====> operands
++ ===========>operator
+operations ===>combination of operands and operations
+
+
+
+print(3/2) #1.5
+print(3//2)#1
+print(49**(1/2))#7.0
+print(2**2)#4
+print(9/1-1)#8.0
+print(9/0)#ZeroDivisionError:division by zero
